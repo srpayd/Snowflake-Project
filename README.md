@@ -1,6 +1,6 @@
 # Snowflake Features, Snowflake SQL 
 
-This project aims to provide a range of information about Snowflake through SQL scripts.
+This project aims to provide a range of information about Snowflake features through Snowflake SQL scripts.
 
 ## Table of Contents
 
