@@ -12,7 +12,13 @@ This project aims to provide a range of information about Snowflake features thr
 
 ## Introduction
 
-This project involves analyzing data files to solve the specific problem outlined in the challenge description.
+Welcome to the Snowflake_Queries project! This repository aims to provide a comprehensive collection of SQL scripts for managing various aspects of Snowflake, a popular cloud data platform. Whether you're new to Snowflake or looking to enhance your knowledge and skills, this project offers a range of scripts covering different features and functionalities.
+
+The primary objective of this project is to facilitate learning and exploration of Snowflake's capabilities through practical examples and hands-on exercises. By examining these SQL scripts, users can gain insights into topics such as access control, performance optimization, data loading, and continuous data protection.
+
+Whether you're a data engineer, analyst, or database administrator, you'll find valuable resources here to help you leverage Snowflake effectively in your projects. Feel free to explore the scripts, experiment with them in your Snowflake environment, and adapt them to suit your specific use cases.
+
+We hope you find this repository useful and informative. Happy querying!
 
 ## Snowflake Features
 
