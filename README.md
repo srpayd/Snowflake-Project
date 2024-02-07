@@ -1,4 +1,4 @@
-# Snowflake_Queries
+# Snowflake Features, Snowflake SQL 
 
 This project aims to provide a range of information about Snowflake through SQL scripts.
 
