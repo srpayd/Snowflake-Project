@@ -35,9 +35,9 @@ I hope this repository is useful and informative. Happy querying!
 
 ### Performance (Virtual Warehouses, Query Optimizations)
 
-- **Branch Name:** [Branch Name]
+- **Branch Name:** virtual-warehouses
   
-  **Description:** [Description]
+  **Description:** This branch contains SQL scripts for managing virtual warehouses in Snowflake. These scripts cover various aspects such as creating, configuring, and monitoring virtual warehouses, as well as exploring multi-cluster warehouse behavior and related configuration options. Additionally, the branch includes examples of tracking virtual warehouse usage, monitoring credit consumption, and setting up resource monitors to optimize credit utilization. Overall, this branch provides comprehensive guidance for effectively managing virtual warehouses in Snowflake to meet performance, scalability, and cost-efficiency requirements.
 
 ### Data Loading and Unloading (Structured, Semi-structured, and Unstructured data)
 
