@@ -21,7 +21,7 @@ I hope this repository is useful and informative. Happy querying!
 
 ## Snowflake Features
 
-### Snowflake Architecture
+### 1. Snowflake Architecture
 
 - **Branch Name:** access-control-security-management
   
@@ -29,7 +29,7 @@ I hope this repository is useful and informative. Happy querying!
 
   
 
-### Access Control and Security
+### 2. Access Control and Security
 
 - **Branch Name:** [Branch Name]
   
@@ -37,15 +37,7 @@ I hope this repository is useful and informative. Happy querying!
 
 
 
-### Performance (Virtual Warehouses, Query Optimizations)
-
-- **Branch Name:** virtual-warehouses
-  
-  **Description:** This branch contains SQL scripts for managing virtual warehouses in Snowflake. These scripts cover various aspects such as creating, configuring, and monitoring virtual warehouses, as well as exploring multi-cluster warehouse behavior and related configuration options. Additionally, the branch includes examples of tracking virtual warehouse usage, monitoring credit consumption, and setting up resource monitors to optimize credit utilization. Overall, this branch provides comprehensive guidance for effectively managing virtual warehouses in Snowflake to meet performance, scalability, and cost-efficiency requirements.
-
-
-
-### Database-Objects 
+### 3. Database-Objects 
 
 - **Branch Name:** database-objects
   
@@ -65,20 +57,36 @@ I hope this repository is useful and informative. Happy querying!
 
 
 
-### Data Loading and Unloading (Structured, Semi-structured, and Unstructured data)
+### 4. Performance 
+
+- **Branch Name:** virtual-warehouses
+  
+  **Description:** This branch contains SQL scripts for managing virtual warehouses in Snowflake. These scripts cover various aspects such as creating, configuring, and monitoring virtual warehouses, as well as exploring multi-cluster warehouse behavior and related configuration options. Additionally, the branch includes examples of tracking virtual warehouse usage, monitoring credit consumption, and setting up resource monitors to optimize credit utilization. Overall, this branch provides comprehensive guidance for effectively managing virtual warehouses in Snowflake to meet performance, scalability, and cost-efficiency requirements.
+
+                    - Virtual Warehouses
+                    - Multi-cluster Warehouse
+                    - Query Optimization
+
+### 5. Data Loading and Unloading (Structured, Semi-structured, and Unstructured data)
 
 - **Branch Name:** [Branch Name]
   
   **Description:** [Description]
 
+                    - Structured Data Loading & Unloading & Transformation 
+                    - Semi-structured Data Loading & Unloading & Transformation
+                    - Unstructured Data Accessing, Sharing, Processing
+  
 
-
-### Continuous Data Protection and Sharing (Time Travel, Fail-Safe, Replication, Data Cloning, Data Sharing, Data Exchange)
+### 6. Continuous Data Protection and Sharing 
 
 - **Branch Name:** [Branch Name]
   
-  **Description:** [Description]
+  **Description:** (Time Travel, Fail-Safe, Replication, Data Cloning, Data Sharing, Data Exchange)
 
+                    - Micro-partitions
+                    - Time Travel, Fail-Safe 
+                    - Data Replication, Cloning, Data Sharing, Data Exchange
 
 
 ## Usage
