@@ -27,11 +27,15 @@ I hope this repository is useful and informative. Happy querying!
   
   **Description:** This branch contains SQL scripts for managing access control and security settings in a database environment. The scripts cover various aspects of access control, including role-based access control (RBAC), discretionary access control (DAC), and privilege management. Additionally, the scripts demonstrate the creation of masking policies and row access policies to protect sensitive data and enforce security restrictions. The branch serves as a reference for implementing robust security measures and managing access permissions within a database system.
 
+  
+
 ### Access Control and Security
 
 - **Branch Name:** [Branch Name]
   
   **Description:** [Description]
+
+
 
 ### Performance (Virtual Warehouses, Query Optimizations)
 
@@ -39,17 +43,43 @@ I hope this repository is useful and informative. Happy querying!
   
   **Description:** This branch contains SQL scripts for managing virtual warehouses in Snowflake. These scripts cover various aspects such as creating, configuring, and monitoring virtual warehouses, as well as exploring multi-cluster warehouse behavior and related configuration options. Additionally, the branch includes examples of tracking virtual warehouse usage, monitoring credit consumption, and setting up resource monitors to optimize credit utilization. Overall, this branch provides comprehensive guidance for effectively managing virtual warehouses in Snowflake to meet performance, scalability, and cost-efficiency requirements.
 
+
+
+### Database-Objects 
+
+- **Branch Name:** database-objects
+  
+  **Description:** This branch focuses on managing database objects in Snowflake through two hands-on exercises. These exercises offer practical insights into effectively managing database objects in Snowflake for database administrators and developers.
+
+                    1. Databases, Schemas, Tables, and Views
+                    
+                    Demonstrates creating databases, schemas, and different types of tables.
+                    Explains the creation of external tables and various types of views.
+                    Includes examples of secure view functionality and access control.
+                
+                    2. User Defined Functions (UDFs), External Functions, and Stored Procedures
+                    
+                    Covers creating SQL and JavaScript UDFs, including overloading.
+                    Introduces external functions for integration with external services.
+                    Shows how to create a JavaScript stored procedure for database maintenance tasks.
+
+
+
 ### Data Loading and Unloading (Structured, Semi-structured, and Unstructured data)
 
 - **Branch Name:** [Branch Name]
   
   **Description:** [Description]
 
+
+
 ### Continuous Data Protection and Sharing (Time Travel, Fail-Safe, Replication, Data Cloning, Data Sharing, Data Exchange)
 
 - **Branch Name:** [Branch Name]
   
   **Description:** [Description]
+
+
 
 ## Usage
 
