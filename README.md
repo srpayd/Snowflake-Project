@@ -65,7 +65,7 @@ Snowflake’s unique architecture consists of three key layers:
 
 
 
-### 4. Scalable Parallel Computing  
+### 4. Query Computing  
 
 - **Branch Name:** virtual-warehouses
   
