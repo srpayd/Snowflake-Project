@@ -23,17 +23,25 @@ I hope this repository is useful and informative. Happy querying!
 
 ### 1. Snowflake Architecture
 
-- **Branch Name:** access-control-security-management
-  
-  **Description:** This branch contains SQL scripts for managing access control and security settings in a database environment. The scripts cover various aspects of access control, including role-based access control (RBAC), discretionary access control (DAC), and privilege management. Additionally, the scripts demonstrate the creation of masking policies and row access policies to protect sensitive data and enforce security restrictions. The branch serves as a reference for implementing robust security measures and managing access permissions within a database system.
+![image](https://github.com/srpayd/Snowflake-Project/assets/39004568/f7d6e8a4-68fe-47ac-8b5e-23a300721de4)
 
   
+Snowflake’s architecture is a hybrid of traditional shared-disk and shared-nothing database architectures. Similar to shared-disk architectures, Snowflake uses a central data repository for persisted data that is accessible from all compute nodes in the platform. But similar to shared-nothing architectures, Snowflake processes queries using MPP (massively parallel processing) compute clusters where each node in the cluster stores a portion of the entire data set locally. This approach offers the data management simplicity of a shared-disk architecture, but with the performance and scale-out benefits of a shared-nothing architecture.
+
+Snowflake’s unique architecture consists of three key layers:
+
+- Database Storage
+
+- Query Processing
+
+- Cloud Services
+
 
 ### 2. Access Control and Security
 
-- **Branch Name:** [Branch Name]
+- **Branch Name:** access-control-security-management
   
-  **Description:** [Description]
+  **Description:** This branch contains SQL scripts for managing access control and security settings in a database environment. The scripts cover various aspects of access control, including role-based access control (RBAC), discretionary access control (DAC), and privilege management. Additionally, the scripts demonstrate the creation of masking policies and row access policies to protect sensitive data and enforce security restrictions. The branch serves as a reference for implementing robust security measures and managing access permissions within a database system.
 
 
 
