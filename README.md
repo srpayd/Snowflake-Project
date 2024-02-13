@@ -57,7 +57,7 @@ I hope this repository is useful and informative. Happy querying!
 
 
 
-### 4. Performance 
+### 4. Scalable Parallel Computing  
 
 - **Branch Name:** virtual-warehouses
   
@@ -66,6 +66,16 @@ I hope this repository is useful and informative. Happy querying!
                     - Virtual Warehouses
                     - Multi-cluster Warehouse
                     - Query Optimization
+
+### 4. Query Performance & Reclustering  
+
+- **Branch Name:** query-performance
+  
+  **Description:** This branch introduces enhancements that optimize query performance in the Snowflake database environment. Divided into three distinct sections, the changes address various aspects of query execution, metadata caching, and clustering information systems. The updates include improvements in query history and performance metrics analysis, exploration of metadata and results caching techniques, and investigation of automatic clustering features alongside cost monitoring mechanisms. These enhancements aim to enhance query efficiency, reduce computational overhead, and provide insights into optimizing table storage and query execution.
+
+                    - Query History and Performance Metrics:
+                    - Metadata and Results Caching:
+                    - Automatic Clustering and Cost Monitoring:
 
 ### 5. Data Loading and Unloading (Structured, Semi-structured, and Unstructured data)
 
