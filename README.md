@@ -87,9 +87,9 @@ Snowflake’s unique architecture consists of three key layers:
 
 ### 5. Data Loading and Unloading (Structured, Semi-structured, and Unstructured data)
 
-- **Branch Name:** [Branch Name]
+- **Branch Name:** data-loading
   
-  **Description:** [Description]
+  **Description:** This branch contains a comprehensive guide to data loading tasks in Snowflake, spanning multiple hands-on exercises. It covers various topics, including different **INSERT** statement variations and methods for uploading data via the UI. Additionally, it explores various **stage types**, both internal and external, and illustrates how to list, query, and remove staged data files. The repository also delves into **file formats**, **COPY options**, load transformations, and validation modes for efficient data loading. Moreover, it provides in-depth guidance on handling semi-structured data, particularly JSON files, utilizing methods such as ELT, ETL, and Automatic Schema Detection. Overall, this repository serves as a valuable resource for data engineers seeking to master data loading techniques within Snowflake environments.
 
                     - Structured Data Loading & Unloading & Transformation 
                     - Semi-structured Data Loading & Unloading & Transformation
