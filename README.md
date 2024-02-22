@@ -98,7 +98,7 @@ Snowflake’s unique architecture consists of three key layers:
 
 ### 6. Continuous Data Protection and Sharing 
 
-- **Branch Name:** [Branch Name]
+- **Branch Name:** business-contiunity , data-sharing
   
   **Description:** (Time Travel, Fail-Safe, Replication, Data Cloning, Data Sharing, Data Exchange)
 
