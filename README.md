@@ -100,7 +100,7 @@ Snowflake’s unique architecture consists of three key layers:
 
 - **Branch Name:** business-contiunity , data-sharing
   
-  **Description:** (Time Travel, Fail-Safe, Replication, Data Cloning, Data Sharing, Data Exchange)
+  **Description:** The "business-continuity" branch implements features like time travel, fail-safe mechanisms, and data retention policies to ensure business continuity and data integrity. The branch delves into configuring parameters like the DATA_RETENTION_TIME_IN_DAYS to effectively manage the historical data retention period. On the other hand, the "data-sharing" branch concentrates on facilitating efficient data-sharing and collaboration across different environments. It encompasses tasks such as cloning objects, creating shareable views, and configuring secure data-sharing mechanisms. The branch showcases how to clone tables and databases, create secure views, and manage access control to ensure data privacy and security.
 
                     - Micro-partitions
                     - Time Travel, Fail-Safe 
