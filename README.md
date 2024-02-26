@@ -112,7 +112,7 @@ Snowflake’s unique architecture consists of three key layers:
 ### Pre-requisites
 
 To run the codes in this project, ensure the following prerequisites are met:
-- A Snowflake account (here is a free trial Snowflake account or other Snowflake Edition information)
+- A Snowflake account (here is a free trial Snowflake account or other Snowflake Edition information : [Free Account](https://signup.snowflake.com/?utm_source=google&utm_medium=paidsearch&utm_campaign=na-us-en-brand-trial-exact&utm_content=go-rsa-evg-ss-free-trial&utm_term=c-g-snowflake%20trial-e&_bt=586482103839&_bk=snowflake%20trial&_bm=e&_bn=g&_bg=136172947348&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYS-Q2dpJFcqwWVRmDbhm_-qyOoJFOLLH-F1Q5v5JVq4y5wfPj438XBoCFekQAvD_BwE)) 
 - Run the codes using the "Snowsight UI" or "SnowSQL" interface. (Please make sure you switched the right roles on your profile to acquire the desired results.
 
 ## Contact
@@ -121,4 +121,4 @@ Serap Aydogdu - [LinkedIn](https://www.linkedin.com/in/srpayd/) | [Medium](https
 
 ## Reference
 
-This study benefits from the "Ultimate SnowPro Core Certification Course & Exam - 2024" online course on Udemy.
+This study benefits from the "Azure Databricks & Spark For Data Engineers (PySpark / SQL)" online course on Udemy. (https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/?couponCode=KEEPLEARNING)
